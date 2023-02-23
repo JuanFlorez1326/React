@@ -1,0 +1,53 @@
+.divCard{
+    border-radius:20px;
+    width:20em;
+    height:35em;
+    background-color:#161a1d;
+    text-align:center;
+    -webkit-box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 22px 22px 17px -21px rgba(0,0,0,0.06); 
+    box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 22px 22px 17px -21px rgba(0,0,0,0.06);
+}
+.divInfo{
+    margin:4%;
+}
+.divExtras{
+    display:flex;
+    justify-content:center;
+}
+.divTitle{
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+    background-color:#660708;
+    padding:1px;
+    margin-bottom:5%;
+    color:#f5f3f4;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 26px 4px -25px rgba(0,0,0,0.88); 
+    box-shadow: 0px 10px 13px -7px #000000, 0px 26px 4px -25px rgba(0,0,0,0.88);
+}
+.divImage{
+    width:80%;
+    margin:auto;
+}
+.classImage{
+    width:100%;
+    height:15em;
+    border:2px solid #a4161a;
+}
+.btnTrailer{
+    border:none;
+    background-color:#ba181b;
+    cursor: pointer;
+    color:#f5f3f4;
+    width:30%;
+    padding:10px 0px 10px 0px;
+    border-radius:5px;
+    border:1px solid #f5f3f4;
+}
+.fontItem{
+    font-size:15px;
+}
+.btnTrailer:hover{
+    background-color:#660708;
+    cursor: pointer;
+    color:#f5f3f4;
+}

@@ -1,0 +1,15 @@
+.divFetch {
+    width:90%;
+    background-color:white;
+    margin:auto;
+}
+.divSection {
+    text-align:center;
+    width:350px;
+    margin: auto;
+}
+.divCardsFetch{
+    display:flex;
+    margin:auto;
+    width:400px;
+}
